@@ -158,5 +158,5 @@ Incorrectly Classified Instances     8       4.0 %
 
 ## Authors
 
-- Student project for **1TA2 — Advanced Technologies**
+- Ali Lazzem **1TA2 — Advanced Technologies**
 - Supervised by **Mohamed Mahmoud Moussa**
